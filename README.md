@@ -43,7 +43,7 @@ file3 contents
 Example:
 ```bash
 make
-./wcat tests/8.in.txt
+./wcat tests/8.in
 ./test-wcat.sh
 ```
 
